@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m a Front End Web Developer comfortable with frameworks like Angular,.NET and libraries like React.js. 
+- 🔭 I’m a Front End Web Developer comfortable with frameworks like Next.js, Angular, .NET and libraries like React.js. 
 - 🔭 I love to work with Python for Machine Learning.
 - 🌱 I’m currently learning Node.js and Advanced Typescript
-- 👯 I’m looking to collaborate on projects based on Angular Framework or React library.
+- 👯 I’m looking to collaborate on projects based on the Angular or Next Framework.
 
 
 <h3 align="left">Languages and Tools I am comforabtle with</h3>
